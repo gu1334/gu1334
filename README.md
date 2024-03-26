@@ -3,8 +3,8 @@
 
 Meu nome é Gustavo Freire
 Meu <a href="https://www.linkedin.com/in/gustavo-cadamuro-bb56b6185"> LinkedIn </a> é este para quem quiser me seguir.
-Hoje sou estudante de análise e desenvolvimento de sistemas, estou no segundo período e estou aprendendo algumas linguagens.
-Elas são: Java, C e MySql, além delas estou me aprofundando melhor em JavaScript e algumas frameworks.
+Hoje sou estudante de análise e desenvolvimento de sistemas, estou no terceiro período e estou aprendendo algumas linguagens.
+Elas são: Java, C# e Xamarin, além delas estou me aprofundando melhor em JavaScript e algumas frameworks.
 
   ##
   
