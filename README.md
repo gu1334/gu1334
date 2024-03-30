@@ -6,6 +6,11 @@ Meu <a href="https://www.linkedin.com/in/gustavo-cadamuro-bb56b6185"> LinkedIn <
 Hoje sou estudante de análise e desenvolvimento de sistemas, estou no terceiro período e estou aprendendo algumas linguagens.
 Elas são: Java, C# e Xamarin, além delas estou me aprofundando melhor em JavaScript e algumas frameworks.
 
+##
+Dê uma olhada no meu projeto de <a href="https://github.com/gu1334/APP-Corrida"> Javascript </a>
+##
+Aproveita que esta ai e da uma olhada no meu projeto de <a href="https://github.com/gu1334/banco-de-dados"> MySql </a>
+
   ##
   
   <a href="https://github.com/gu1334/github-readme-stats">
