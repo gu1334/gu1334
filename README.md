@@ -7,7 +7,7 @@ Se quiser me seguir, meu [LinkedIn](https://www.linkedin.com/in/gustavo-cadamuro
 Dê uma olhada nos meus projetos:
 - [Javascript](https://github.com/gu1334/APP-Corrida)
 - [MySQL](https://github.com/gu1334/banco-de-dados)
-- [Java](https://github.com/gu1334/LOTOFAC)
+- [Java](https://github.com/gu1334/LOTOFACIL)
 
 ## Contribuições por Linguagem de Programação
 
