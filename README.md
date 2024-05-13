@@ -5,7 +5,6 @@ Meu nome é Gustavo Freire. Sou estudante de Análise e Desenvolvimento de Siste
 Se quiser me seguir, meu [LinkedIn](https://www.linkedin.com/in/gustavo-cadamuro-bb56b6185) está disponível.
 
 Dê uma olhada nos meus projetos:
-- [Javascript](https://github.com/gu1334/APP-Corrida)
 - [MySQL](https://github.com/gu1334/banco-de-dados)
 - [Java](https://github.com/gu1334/LOTOFACIL)
 - [MontyHall - JAVA](https://github.com/gu1334/MontyHall)
