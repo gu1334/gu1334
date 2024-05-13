@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/gu1334/gu1334/blob/main/Linkedin%20banner%20simples%20preto%20e%20branco.jpg"/>
+<img align="center" alt="Header" src="https://github.com/gu1334/gu1334/blob/main/github-header-image.png"/>
 </div>
 
 ###
@@ -27,20 +27,35 @@ Dê uma olhada nos meus projetos:
 - [Java](https://github.com/gu1334/LOTOFACIL)
 - [MontyHall - JAVA](https://github.com/gu1334/MontyHall)
 
+
+
 ## Contribuições por Linguagem de Programação
 
-<div align="center">
-  <a href="https://github.com/gu1334/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=gu1334" />
-  </a>
+<div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev2.gif" width="340px" height="520px"/>
+</div>
+
+<div align="justify">
+
+
+
+   
   <a href="https://github.com/gu1334/convoychat">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu1334&layout=compact&langs_count=8&card_width=320" />
   </a>
+    <a href="https://github.com/gu1334/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=gu1334" />
+</a>
   
 [![Contribuição do Github](https://github-readme-streak-stats.herokuapp.com/?user=gu1334)](https://github.com/gu1334)
 
 </div>
+</div>
 
+-----
+
+<div>
 
 
 ### Linguagens e Ferramentas que Utilizo:
