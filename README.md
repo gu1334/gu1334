@@ -1,8 +1,26 @@
-### Olá, tudo bem? 👾
+<div>
+<img align="center" alt="Header" src="https://github.com/gu1334/gu1334/blob/main/Linkedin%20banner%20simples%20preto%20e%20branco.jpg"/>
+</div>
 
-Meu nome é Gustavo Freire. Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro período, e estou aprendendo várias linguagens, incluindo Java, C#, Xamarin e JavaScript, além de algumas frameworks.
+###
 
-Se quiser me seguir, meu [LinkedIn](https://www.linkedin.com/in/gustavo-cadamuro-bb56b6185) está disponível.
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://www.linkedin.com/in/gustavo-freire-bb56b6185/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+</div>
+
+Meu nome é <code>Gustavo Freire</code>, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro período, e estou aprendendo algumas linguagens, incluindo Java, e JavaScript, além de algumas frameworks.
+
 
 Dê uma olhada nos meus projetos:
 - [MySQL](https://github.com/gu1334/banco-de-dados)
